@@ -1,5 +1,6 @@
 from minitorch.scalar import *
 
+
 def sigmoid(x):
     return Sigmoid.apply(x)
 
